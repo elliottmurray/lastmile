@@ -1,5 +1,10 @@
 # lastmile
 
+[![Plugin CI](https://github.com/elliottmurray/lastmile/actions/workflows/plugin-ci.yml/badge.svg)](https://github.com/elliottmurray/lastmile/actions/workflows/plugin-ci.yml)
+[![Plugin release](https://github.com/elliottmurray/lastmile/actions/workflows/plugin-release.yml/badge.svg)](https://github.com/elliottmurray/lastmile/actions/workflows/plugin-release.yml)
+[![Release](https://img.shields.io/github/v/release/elliottmurray/lastmile)](https://github.com/elliottmurray/lastmile/releases)
+[![Claude Code 2.1.296](https://img.shields.io/badge/Claude%20Code-2.1.296-D97757)](.github/workflows/plugin-ci.yml)
+
 A Claude Code plugin, and the marketplace that serves it, for the last mile
 of a Flutter iOS app: everything between "it runs on my simulator" and
 "it's on TestFlight". It writes CI workflows and config, installs hooks that
